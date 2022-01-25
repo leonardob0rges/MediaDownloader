@@ -19,7 +19,7 @@ After cloned, install the requirements, with:
 pip3 install -r requirements.txt
 ```
 
-And last run the setup configuration:
+And last run the permissions setup:
 
 ```
 sudo chmod +x setup.sh && ./setup.sh
