@@ -13,7 +13,7 @@ Begin cloning the MediaDownloader repo:
 git clone https://github.com/leonardob0rges/MediaDownloader
 ```
 
-After install the requirements, with:
+After cloned, install the requirements, with:
 
 ```
 pip3 install -r requirements.txt
